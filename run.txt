@@ -1,0 +1,29 @@
+python my_detect.py --source ../DLUT-detection/datasets/object/images/val/color1071.jpg --weights best.pt --save-txt
+
+
+
+python my_detect.py --source test --weights x.pt --save-txt 
+
+
+
+
+
+exp11 ----   m.pt
+
+
+
+exp12 ----x.pt
+
+
+
+exp13 --- l.pt
+
+vscode  tensorboard 插件 安装了 tb_profiler tensorboard
+
+
+2651
+2668；
+2804
+
+wget https://github.com/ultralytics/yolov5/releases/download/v2.0/yolov5x.pt
+
