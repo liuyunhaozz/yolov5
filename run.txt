@@ -4,7 +4,7 @@ python my_detect.py --source ../DLUT-detection/datasets/object/images/val/color1
 
 python my_detect.py --source test --weights x.pt --save-txt 
 
-
+python my_detect.py --source D:/DUT/download/test-A-image/test-A-image --weights C:/Users/22105/Desktop/best.pt --save-txt
 
 
 
